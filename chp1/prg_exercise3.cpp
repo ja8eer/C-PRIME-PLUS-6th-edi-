@@ -1,3 +1,12 @@
+////////////////////////////////////////////////////
+//Write a C++ program that uses three user-defined//
+//functions (counting main() as one) and produces //
+//the following output:				  //
+//	Three blind mice			  //
+//	Three blind mice			  //
+//	See how they run			  //
+//	See how they run			  //
+///////////////////////////////created by jabeer////
 #include<iostream>
 using namespace std;
 void first();
