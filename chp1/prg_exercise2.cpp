@@ -1,3 +1,8 @@
+////////////////////////////////////////////////////
+//Write a C++ program that asks for a distance in //
+//furlongs and converts it to yards.		  //
+/////////////////////////////////created by jabeer//
+(One furlong is 220 yards.)
 #include<iostream>
 using namespace std;
 int main(){
